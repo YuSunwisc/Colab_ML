@@ -1,0 +1,74 @@
+For the Fiscal Years Ending December 31, 2020, 2021, 2022, 2023, and 2024
+
+1. Company Overview
+
+YuSunWiscAI is a leading artificial intelligence company specializing in innovative AI solutions. Established in 2019, the company has experienced significant financial growth over the past five years.
+
+2. Financial Highlights
+	•	Fiscal Year 2020: Net Loss of $5,000,000
+	•	Fiscal Year 2021: Break-even
+	•	Fiscal Year 2022: Net Income of $1,000,000
+	•	Fiscal Year 2023: Net Income of $6,000,000
+	•	Fiscal Year 2024: Net Income of $23,000,000
+
+3. Income Statement for the Year Ending December 31, 2024
+	•	Revenue: $50,000,000
+	•	Cost of Goods Sold: $20,000,000
+	•	Gross Profit: $30,000,000
+	•	Operating Expenses: $5,000,000
+	•	Operating Income: $25,000,000
+	•	Other Expenses: $2,000,000
+	•	Net Income Before Taxes: $23,000,000
+	•	Income Tax Expense: $0
+	•	Net Income: $23,000,000
+
+4. Balance Sheet as of December 31, 2024
+
+Assets
+	•	Current Assets:
+	•	Cash and Cash Equivalents: $10,000,000
+	•	Accounts Receivable: $5,000,000
+	•	Inventory: $2,000,000
+	•	Total Current Assets: $17,000,000
+	•	Non-Current Assets:
+	•	Property, Plant, and Equipment: $8,000,000
+	•	Intangible Assets: $3,000,000
+	•	Total Non-Current Assets: $11,000,000
+	•	Total Assets: $28,000,000
+
+Liabilities and Equity
+	•	Current Liabilities:
+	•	Accounts Payable: $2,000,000
+	•	Short-Term Debt: $1,000,000
+	•	Total Current Liabilities: $3,000,000
+	•	Non-Current Liabilities:
+	•	Long-Term Debt: $5,000,000
+	•	Total Non-Current Liabilities: $5,000,000
+	•	Total Liabilities: $8,000,000
+	•	Equity:
+	•	Common Stock: $10,000,000
+	•	Retained Earnings: $10,000,000
+	•	Total Equity: $20,000,000
+	•	Total Liabilities and Equity: $28,000,000
+
+5. Cash Flow Statement for the Year Ending December 31, 2024
+	•	Cash Flows from Operating Activities:
+	•	Net Income: $23,000,000
+	•	Adjustments for Non-Cash Items: $2,000,000
+	•	Changes in Working Capital: $(1,000,000)
+	•	Net Cash Provided by Operating Activities: $24,000,000
+	•	Cash Flows from Investing Activities:
+	•	Purchase of Equipment: $(3,000,000)
+	•	Net Cash Used in Investing Activities: $(3,000,000)
+	•	Cash Flows from Financing Activities:
+	•	Repayment of Debt: $(2,000,000)
+	•	Issuance of Common Stock: $1,000,000
+	•	Net Cash Used in Financing Activities: $(1,000,000)
+	•	Net Increase in Cash and Cash Equivalents: $20,000,000
+	•	Cash and Cash Equivalents at Beginning of Year: $5,000,000
+	•	Cash and Cash Equivalents at End of Year: $25,000,000
+
+6. Notes to the Financial Statements
+	•	Revenue Recognition: Revenue is recognized when control of the goods or services is transferred to the customer.
+	•	Income Taxes: The company has utilized tax loss carryforwards from previous years, resulting in no income tax expense for 2024.
+	•	Debt Obligations: The company has repaid $2,000,000 of its long-term debt during 2024.
